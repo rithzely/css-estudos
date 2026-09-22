@@ -1,0 +1,24 @@
+body {background-color: rgb(153, 199, 219);
+    }
+
+h1 {font-size: 30px;
+    color: rgb(201, 35, 35);
+    text-shadow: 5px 5px 5px rgb(219, 84, 84);
+}
+
+h2 {font-size: 25px;
+    color: rgb(201, 35, 35);
+    text-shadow: 5px 5px 5px rgb(219, 84, 84);
+}
+
+ul {font-size: 20px;
+}
+
+p   {text-align: justify;
+    font-size: 20;
+}
+
+img{
+    width: 45%;
+    height: 45%;
+}

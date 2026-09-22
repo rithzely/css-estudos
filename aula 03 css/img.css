@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    background-image: url(./93f628b0da227becaabbb6849919450d.jpg);
+    
+}
+
+img {
+    height: 300px;
+}
+figure {
+    
+    background-color: rgb(89, 20, 20);
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid;
+}
+
+figcaption {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-style: italic;
+    color: rgb(162, 189, 241);
+}
+
+.minha-img {
+    filter: drop-shadow(10px 10px 8px rgb(0, 0, 0));
+}

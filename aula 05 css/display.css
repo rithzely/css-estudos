@@ -1,0 +1,16 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(208, 34, 170);
+    margin: 10px;
+}
+
+.box1 {
+    background-color: rgb(98, 36, 157);
+    display: inline-block;
+}
+
+.box2 {
+    background-color: rgb(132, 70, 171);
+    display: inline-block;
+}

@@ -1,0 +1,17 @@
+h1  {
+    color: rgb(83, 136, 234);
+    text-shadow: 5px 5px 5px rgb(142, 198, 211);
+}   
+p   {
+    /* alinhamento do texto justificado */
+    text-align: justify; 
+
+    /* espaçamento entre as linhas */
+    line-height: 200%;
+
+    /* deixar em negrito e definir a expessura */
+    font-weight: 900;
+
+    /* estilo da fonte */
+    font-style: italic;
+}

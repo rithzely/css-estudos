@@ -1,0 +1,27 @@
+.rit {
+    color: rgb(3, 3, 102);
+    text-align: right;
+    font-style: italic;
+}
+
+li.center {
+    text-align: center;
+
+}
+h1, h2 {
+    color: blue;
+}
+
+section {
+    color: blueviolet;
+}
+#ritalina {
+    color: chartreuse;
+}
+section  {
+    color: chocolate;
+}
+
+.ritalina2 {
+    color: rgb(229, 10, 167);
+}
