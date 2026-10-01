@@ -1,0 +1,11 @@
+a {
+    padding: 5px;
+    border: 1px solid;
+    background-color: rgb(238, 165, 204);
+    color: rgb(204, 22, 137);
+}
+
+a:hover {
+    color: rgb(204, 22, 137);
+    background-color: rgb(226, 121, 202);
+}
